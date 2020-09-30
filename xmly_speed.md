@@ -8,16 +8,6 @@
 
  [xmly_speed](xmly_speed.py) 
 
-
-### 邀请任务
-
-[邀请链接](https://1577553307077650.cn-beijing.fc.aliyuncs.com/2016-08-15/proxy/xmly-GreetingService-812BA409BF91/GreetingFunction/)  
-(点击之后会自动下载一个txt文件，里面包含了邀请链接)
-
-如果你不介意，并且之前没有注册过喜马拉雅的话，可以帮我完成一个邀请任务，感谢。
-
-
-
 ### 运行方案
 
 1、GitHub action自动运行，账号信息读取自`Repo-Setting-Secrets`  
